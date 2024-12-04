@@ -1,6 +1,10 @@
 # NonCrect
 
-ダウンロード方法
+## 目次
+- ダウンロード方法
+- 操作方法
+
+## ダウンロード方法
 
 1. https://github.com/AtoKashinoki/NonCrect- からリポジトリをZIPでダウンロードする。
     ![img.png](imgs/img.png)
