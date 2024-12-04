@@ -15,6 +15,8 @@
 2. 展開する。
 3. Windowsは「run.exe」を、Linux(ラズパイ)は「run」実行する。
 
+※「run.exe」はWindows用、「run」はLinux(ラズパイ)用の実行ファイル。
+
 
 ## 操作方法
  - 矢印キー [←] [→] で横移動
